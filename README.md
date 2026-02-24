@@ -10,4 +10,4 @@ numgen.gen(0) # Replace 0 with any number, it's recomended not to use a number l
 !NB!
 Use: pip install numgen-egg
 
-Import it to python: import numgen
+Import it to python: import numgen_egg
