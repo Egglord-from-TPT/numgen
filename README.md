@@ -1,16 +1,12 @@
-# variables_plus
+# Numgen
 
-A simple Python library to create, clear, read, write and delete global variables.
+A simple Python library that you can use to generate a number I invented (probably)
 
-This is my first python library :D
+This is my second python library :D
 
 Commands:
-vp.vp("create(variable=something)")   # Remove =something to create a blank variable.
-vp.vp("clear(variable)")   # Leave clear() empty to clear all variables.
-vp.vp("delete(variable)")   # Variable needs to exist.
-vp.vp("read(variable)")   # Doesn't print it. Use print(vp.vp("read(variable)")) to print the variables contents.
-vp.vp(“write(variable=something)”)   # Variable needs to exist.
+numgen.gen(0) # Replace 0 with any number, it's recomended not to use a number lower than 3 and higher than 15.
 
 !NB!
-Use: pip install variablesplus
-But, to import it: import vp
+Use: pip install numgen
+Import it to python: import numgen
