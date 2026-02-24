@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="gen",
-    version="1.1.1",
+    version="1.1.2",
     packages=find_packages(),
     description="A simple library that generates a number.",
     author="",
